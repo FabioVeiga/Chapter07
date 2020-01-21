@@ -1,0 +1,10 @@
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\bin\Debug\Chapter7Program01.exe.config
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\bin\Debug\Chapter7Program01.exe
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\bin\Debug\Chapter7Program01.pdb
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.csprojAssemblyReference.cache
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.frmMain.resources
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.Properties.Resources.resources
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.csproj.GenerateResource.cache
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.csproj.CoreCompileInputs.cache
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.exe
+E:\IBT\C#\Chapter7Program01\Chapter7Program01\obj\Debug\Chapter7Program01.pdb
